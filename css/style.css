@@ -937,7 +937,7 @@
 		background-attachment: scroll,								fixed;
 		background-image: url("images/blue_snow_tree.jpg"), url("../images/blue_snow_tree.jpg");
 		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
+		background-repeat: repeat,								repeat-y;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
@@ -1246,7 +1246,7 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
-	
+
 	/* Divider */
 	.divider{
 		width:1000px;
