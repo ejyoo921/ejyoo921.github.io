@@ -58,7 +58,7 @@
 
 	#header {
 		background-image: url("../../images/blue_snow_tree.jpg");
-		background-repeat: repeat;
+		background-repeat: repeat-y;
 		background-size: cover;
 		-ms-behavior: url("css/ie/backgroundsize.min.htc");
 	}
