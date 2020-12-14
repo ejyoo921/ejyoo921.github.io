@@ -1244,3 +1244,10 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
+	
+	/* Divider */
+	.divider{
+		width:5px;
+		height:auto;
+		display:inline-block;
+}
