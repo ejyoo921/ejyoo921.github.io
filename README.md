@@ -1,2 +1,3 @@
 # ejyoo921.github.io
-Eunji's academic webpage :)
+Eunji's professional webpage :)
+Click here -> https://ejyoo921.github.io/
